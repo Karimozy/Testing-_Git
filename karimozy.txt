@@ -1,5 +1,5 @@
-file1
-file2
+
+file2 on master
 kimo1
 kimo2
 new f1 line
