@@ -4,3 +4,5 @@ kimo1
 kimo2
 new f1 line
 new f1 write
+line 1 branch
+line 2 branch
